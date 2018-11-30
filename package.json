@@ -20,7 +20,7 @@
     "mkdirp": "*",
     "colors": "*",
     "express": "4.16.0",
-    "phantomjs-prebuilt": "2.1.14",
+    "phantomjs-prebuilt": "2.1.16",
     "body-parser": "1.16.0",
     "prompt": "*",
     "request": "*",
